@@ -1,0 +1,22 @@
+
+Routenverfolgung zu 20.189.173.15 Åber maximal 30 Hops
+
+  1     1 ms     1 ms     1 ms  OpenWrt.lan [192.168.1.1] 
+  2     3 ms     4 ms     3 ms  192.168.178.1 
+  3    16 ms    15 ms    12 ms  192.0.0.1 
+  4    12 ms    13 ms    12 ms  62.214.32.83 
+  5    18 ms    14 ms    13 ms  62.214.34.9 
+  6    15 ms    13 ms    14 ms  62.214.34.10 
+  7    18 ms    16 ms    16 ms  ae25-0.ier02.lax32.ntwk.msn.net [104.44.41.83] 
+  8   181 ms   165 ms   167 ms  be-104-0.ibr01.ams30.ntwk.msn.net [104.44.23.196] 
+  9   256 ms   171 ms   187 ms  be-15-0.ibr01.lon22.ntwk.msn.net [104.44.31.0] 
+ 10   246 ms   166 ms   213 ms  be-10-0.ibr01.nyc30.ntwk.msn.net [104.44.18.152] 
+ 11   215 ms   491 ms   271 ms  be-5-0.ibr01.ewr30.ntwk.msn.net [104.44.7.103] 
+ 12   267 ms     *      166 ms  be-8-0.ibr01.cle30.ntwk.msn.net [104.44.17.201] 
+ 13   241 ms   165 ms   166 ms  be-9-0.ibr01.ch4.ntwk.msn.net [104.44.29.47] 
+ 14   216 ms   166 ms   170 ms  be-8-0.ibr03.dsm05.ntwk.msn.net [104.44.28.220] 
+ 15   217 ms   263 ms   167 ms  be-4-0.ibr03.cys04.ntwk.msn.net [104.44.28.249] 
+ 16   168 ms   166 ms   166 ms  be-10-0.ibr03.by21.ntwk.msn.net [104.44.28.149] 
+ 17   202 ms   164 ms   164 ms  ae122-0.icr02.by21.ntwk.msn.net [104.44.22.168] 
+ 18     *        *        *     ZeitÅberschreitung der Anforderung.
+ 19     *     
